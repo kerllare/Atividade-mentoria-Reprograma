@@ -1,6 +1,6 @@
-# Atividade BI 
-
 ## Este repositório é de uma atividade realizada em mentoria da formação continuada da [{Reprograma}](https://www.reprograma.com.br/).
+
+## DESAFIO: Apresentar os principais resultados em um ou dois slides
 
 <br>
 Visualização do pdf da apresentação desenvolvida no [CANVA](https://drive.google.com/file/d/1V9blXer1Va1ttakzd4LmT2fMO91DbsNE/view?usp=sharing).
