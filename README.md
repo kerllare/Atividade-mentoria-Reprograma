@@ -26,7 +26,7 @@ O conjunto de dados escolhido para este projeto está disponível no Kaggle: "Da
 
 Prepare um relatório conciso, mas informativo, com análises e gráficos que destaquem as principais descobertas.
 
-Lembre-se de que CEOs geralmente têm pouco tempo disponível, então crie **um ou dois slides** resumindo suas principais conclusões e recomendações.
+Lembre-se de que CEOs geralmente têm pouco tempo disponível, então crie ***um ou dois slides*** resumindo suas principais conclusões e recomendações.
 
 <br>
 
