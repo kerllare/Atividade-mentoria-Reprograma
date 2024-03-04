@@ -3,8 +3,8 @@
 ## Este repositório é de uma atividade realizada em mentoria da formação continuada da [{Reprograma}](https://www.reprograma.com.br/).
 
 <br>
-<br>
-📌 Visualização do pdf da apresentação desenvolvida no [Canva](https://drive.google.com/file/d/1V9blXer1Va1ttakzd4LmT2fMO91DbsNE/view?usp=sharing
+<brVisualização do pdf da apresentação desenvolvida no [Canva](https://drive.google.com/file/d/1V9blXer1Va1ttakzd4LmT2fMO91DbsNE/view?usp=sharing).
+
 
 ## SITUAÇÃO PROBLEMA
 
@@ -31,6 +31,15 @@ O conjunto de dados escolhido para este projeto está disponível no Kaggle: "Da
 Salaries”. Este dataset contém informações sobre salários, cargos, localizações, empresas e
 tecnologias utilizadas em empregos relacionados à dados.
 LINK: https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries/data
+
+ ## APRESENTAÇÃO
+
+Prepare um relatório conciso, mas informativo, com
+análises e gráficos que destaquem as principais descobertas.
+
+Lembre-se de que CEOs
+geralmente têm pouco tempo disponível, então crie um ou dois slides
+resumindo suas principais conclusões e recomendações.
 
 
 <br>
