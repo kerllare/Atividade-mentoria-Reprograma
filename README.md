@@ -1,4 +1,4 @@
-## Este repositório é de uma atividade realizada em mentoria da formação continuada da [{Reprograma}](https://www.reprograma.com.br/).
+## Este repositório é de uma atividade realizada em mentoria, da formação continuada da [{Reprograma}](https://www.reprograma.com.br/).
 
 ## DESAFIO: Apresentar os principais resultados em um ou dois slides
 
