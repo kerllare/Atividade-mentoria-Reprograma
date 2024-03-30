@@ -1,33 +1,34 @@
-## Este repositório é de uma atividade realizada em mentoria, da formação continuada da [{Reprograma}](https://www.reprograma.com.br/).
+# Análise do Mercado de Trabalho para Profissionais de Dados
 
-## DESAFIO: Apresentar os principais resultados em um ou dois slides
+Este repositório contém uma atividade realizada durante a mentoria da formação continuada da [{Reprograma}](https://www.reprograma.com.br/), focada em analisar o panorama do mercado de trabalho para profissionais de dados.
 
-<br>
-Visualização do pdf da apresentação desenvolvida no [CANVA](https://drive.google.com/file/d/1V9blXer1Va1ttakzd4LmT2fMO91DbsNE/view?usp=sharing).
+## 🚀 Desafio
 
-<br>
-<br>
+O desafio consiste em apresentar os principais resultados da análise em **um ou dois slides**, visando fornecer insights concisos e relevantes para a tomada de decisão estratégica.
 
-## SITUAÇÃO PROBLEMA
+🔍 **Visualize a apresentação** desenvolvida no CANVA: [Acessar Apresentação](https://drive.google.com/file/d/1V9blXer1Va1ttakzd4LmT2fMO91DbsNE/view?usp=sharing)
 
-Como analista de dados júnior em uma startup de educação em tecnologia, você recebeu uma tarefa importante do CEO. Ele quer compreender melhor o panorama atual do mercado de trabalho para profissionais de dados. O objetivo é utilizar esses insights para aprimorar os programas de formação da empresa, garantindo que os cursos oferecidos estejam alinhados com as demandas do mercado e com as expectativas salariais dos profissionais.
+## 📊 Situação-Problema
 
-## OBJETIVOS DA ANÁLISE:
+Como analista de dados júnior em uma startup de educação em tecnologia, o objetivo é compreender o panorama atual do mercado de trabalho para profissionais de dados. Esses insights ajudarão a aprimorar os programas de formação, alinhando-os às demandas do mercado e às expectativas salariais dos profissionais.
 
-- Identificar os principais cargos na área de dados disponíveis no mercado.
-- Analisar as tendências salariais para esses cargos, observando como elas variam com o tempo.
-- Verificar se existem diferenças salariais significativas que dependam da localização geográfica ou do nível de experiência dos profissionais.
+## 🎯 Objetivos da Análise
 
-## BASE DE DADOS 
+- **Identificação de Cargos:** Mapear os principais cargos na área de dados disponíveis no mercado.
+- **Tendências Salariais:** Analisar como os salários variam com o tempo e identificar tendências.
+- **Impacto da Geografia e Experiência:** Investigar diferenças salariais em função da localização geográfica e do nível de experiência.
 
-O conjunto de dados escolhido para este projeto está disponível no Kaggle: "Data Science Job Salaries”. Este dataset contém informações sobre salários, cargos, localizações, empresas e tecnologias utilizadas em empregos relacionados à dados. LINK: [https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries/data](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries/data)
+## 📁 Base de Dados
 
-## APRESENTAÇÃO
+A análise é baseada no conjunto de dados "Data Science Job Salaries" disponível no Kaggle, contendo informações detalhadas sobre salários, cargos, localizações, empresas e tecnologias.  
+🔗 [Acessar Dataset](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries/data)
 
-Prepare um relatório conciso, mas informativo, com análises e gráficos que destaquem as principais descobertas.
+## 📝 Apresentação
 
-Lembre-se de que CEOs geralmente têm pouco tempo disponível, então crie ***_um ou dois slides_*** resumindo suas principais conclusões e recomendações.
+Um relatório conciso, enriquecido com análises e gráficos, destaca as principais descobertas. CEOs, com agendas apertadas, podem rapidamente absorver as **principais conclusões e recomendações** em um ou dois slides cuidadosamente preparados.
 
-<br>
+---
+
+
 
 
